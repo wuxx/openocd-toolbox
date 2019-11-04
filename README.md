@@ -1,6 +1,6 @@
-# openocd工具箱
-## openocd介绍
-openocd是一个开源的调试软件，称之为世界上最强大的开源调试软件并不为过，经过数十年的开源社区的推动发展，当今其可调试数百种目标芯片，包括arm, mips, dsp, fpga, cpld等。支持多种调试接口，如cmsis-dap, jlink, stlink, usb-blaster等。  
+# OpenOCD工具箱
+## OpenOCD介绍
+OpenOCD是一个开源的调试软件，称之为世界上最强大的开源调试软件并不为过，经过数十年的开源社区的推动发展，当今其可调试数百种目标芯片，包括arm, mips, dsp, fpga, cpld等。支持多种调试接口，如cmsis-dap, jlink, stlink, usb-blaster等。  
 ## 脚本说明
 以下是一些基于cmsis-dap接口的调试脚本，可以对目标芯片完成擦除、烧录、锁定等操作，当然您也可以自行修改脚本，以完成自己的定制需求。  
 ## 使用说明
