@@ -12,6 +12,7 @@
 	* [stm32f0x](#)
 	* [stm32f1x](#)
 	* [stm32f2x](#)
+	* [stm32f4x](#)
 ## OpenOCD介绍
 OpenOCD是一个开源的调试软件，称之为世界上最强大的开源调试软件并不为过，经过数十年的开源社区的推动发展，当今其可调试数百种目标芯片，包括arm, mips, dsp, fpga, cpld等。支持多种调试接口，如cmsis-dap, jlink, stlink, usb-blaster等。  
 ## 脚本介绍
@@ -48,4 +49,5 @@ attach到目标芯片上，您可双击此脚本，观察输出，以确认仿�
 - **stm32f0x**  
 - **stm32f1x**  
 - **stm32f2x**  
+- **stm32f4x**  
 若您有需求，请在本仓库的issue中上报新平台，脚本会持续更新。
